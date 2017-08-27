@@ -1,0 +1,16 @@
+PODS:
+  - CarRegistrationPod (0.1.0)
+
+DEPENDENCIES:
+  - CarRegistrationPod (from `../`)
+
+EXTERNAL SOURCES:
+  CarRegistrationPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CarRegistrationPod: a39aaa889bc97ca6a7bf0db653a2bf14e1049688
+
+PODFILE CHECKSUM: 5b5da180cfac8a73d1176e1ba59ee41c318ab8a4
+
+COCOAPODS: 1.3.1
