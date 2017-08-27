@@ -1,8 +1,8 @@
 {
   "name": "CarRegistrationPod",
   "version": "0.1.0",
-  "summary": "A short description of CarRegistrationPod.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Find car registration information from its number plate worldwide",
+  "description": "Retrieve car information from its registration number in many countries worldwide, including most of\nEurope, the USA, Australia and India. In order to use this API, you will need to get a username\nand password from http://www.vehicleregistrationapi.com",
   "homepage": "https://github.com/infiniteloopltd/CarRegistrationPod",
   "license": {
     "type": "MIT",
